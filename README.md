@@ -2,4 +2,4 @@ test
 
 test
 
-test COMMIT
+test COMMIT!
